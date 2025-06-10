@@ -1,0 +1,7 @@
+C:\Users\PC-04\source\repos\zadacha bratle\bin\Debug\zadacha bratle.exe.config
+C:\Users\PC-04\source\repos\zadacha bratle\bin\Debug\zadacha bratle.exe
+C:\Users\PC-04\source\repos\zadacha bratle\bin\Debug\zadacha bratle.pdb
+C:\Users\PC-04\source\repos\zadacha bratle\obj\Debug\zadacha bratle.csproj.AssemblyReference.cache
+C:\Users\PC-04\source\repos\zadacha bratle\obj\Debug\zadacha bratle.csproj.CoreCompileInputs.cache
+C:\Users\PC-04\source\repos\zadacha bratle\obj\Debug\zadacha bratle.exe
+C:\Users\PC-04\source\repos\zadacha bratle\obj\Debug\zadacha bratle.pdb
